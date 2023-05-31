@@ -3,7 +3,7 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/actionhmjackson/LABURL)
+  - [Active Directory Home Lab](https://github.com/actionhmjackson/ActiveDirectoryLab)
 
 
 <h2>📺 Popular YouTube Videos</h2>
